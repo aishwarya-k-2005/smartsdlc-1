@@ -1,2 +1,2 @@
- #  [Click here to use Citizen-AI](https://huggingface.co/spaces/mohamedriazkhanm/Citizen_AI)
+ #  [Click here to use smartdlc-1](https://huggingface.co/spaces/aishwarya-2005/smartsdlc))
 
